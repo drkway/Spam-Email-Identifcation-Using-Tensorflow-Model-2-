@@ -1,1 +1,11 @@
-# Spam-Email-Identifcation-Using-Tensorflow-Model-2-
+#Requirments.txt
+tensorflow
+WordCloud
+nltk
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+sklearn
+keras
+
